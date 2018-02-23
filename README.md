@@ -1,2 +1,3 @@
 # hello_world
-first repository
+
+Hello. My name is Tino and this is me doing the GitHub introduction assingment.
